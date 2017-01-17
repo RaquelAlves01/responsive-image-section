@@ -47,5 +47,14 @@ section {
   margin: 0;
   margin-bottom: 2rem;
 }
+
+a {
+  text-decoration: none;
+  color: #fff;
+  border: 3px solid #555;
   background-color: #555;
+  border-radius: 4px;
+  padding: 0.5em 0.75em;
+}
+
 }
