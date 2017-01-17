@@ -43,5 +43,9 @@ section {
   max-width: 25em;
 }
 
+.text p {
+  margin: 0;
+  margin-bottom: 2rem;
+}
   background-color: #555;
 }
