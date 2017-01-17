@@ -26,5 +26,9 @@ section {
   margin: 0;
 }
 
+.img {
+  display: inline-block;
+  max-width: 25em;
+}
   background-color: #555;
 }
