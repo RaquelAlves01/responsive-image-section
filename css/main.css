@@ -36,5 +36,12 @@ section {
   width: 100%;
 }
 
+.text {
+  display: inline-block;
+  text-align: left;
+  padding: 1rem;
+  max-width: 25em;
+}
+
   background-color: #555;
 }
