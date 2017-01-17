@@ -75,17 +75,6 @@ a:hover {
     text-align: center;
   }
 
-  .text {
-    width: 48%;
-    vertical-align: middle;
-  }
-
-  .img {
-    width: 50%;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-    vertical-align: middle;
-  }
 }
 
 @media only screen and (min-width: 38em) {
@@ -95,10 +84,18 @@ a:hover {
     line-height: 1.4;
   }
 
-  .img {
+  .text {
+    width: 48%;
     vertical-align: middle;
+    padding-top: 1rem;
   }
 
+  .img {
+    width: 50%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    vertical-align: middle;
+  }
 }
 
 @media only screen and (min-width: 60em) {
