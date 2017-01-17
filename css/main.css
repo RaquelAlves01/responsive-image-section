@@ -55,7 +55,9 @@ a {
   border: 3px solid #555;
   background-color: #555;
   border-radius: 4px;
-  padding: 0.5em 0.75em;
+  padding: .5em .75em;
+}
+
 }
 
 @media only screen and (min-width: 25em) {
