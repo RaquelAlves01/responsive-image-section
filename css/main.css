@@ -58,6 +58,10 @@ a {
   padding: .5em .75em;
 }
 
+a:hover {
+  border: 3px solid #222;
+  background-color: #222;
+  border-radius: 4px;
 }
 
 @media only screen and (min-width: 25em) {
