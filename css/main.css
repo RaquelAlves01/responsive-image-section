@@ -41,6 +41,7 @@ section {
   text-align: left;
   padding: 1rem;
   max-width: 25em;
+  padding-top: 0;
 }
 
 .text p {
